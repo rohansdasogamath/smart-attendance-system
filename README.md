@@ -70,7 +70,7 @@ The system follows a layered architecture consisting of:
 ![Login Page](login-page.png)
 
 ### Student Dashboard
-![Student Dashboard](Student-dashboard.jpeg)
+![Student Dashboard](student-dashboard.jpeg)
 
 ### Faculty Dashboard
 ![Faculty Dashboard](faculty-dashboard.jpeg)
