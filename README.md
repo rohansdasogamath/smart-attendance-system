@@ -67,13 +67,13 @@ The system follows a layered architecture consisting of:
 ## Screenshots
 
 ### Login Page
-![Login Page](Login-page.png)
+![Login Page](login-page.png)
 
 ### Student Dashboard
-![Student Dashboard](Srudent-dashboard.jpeg)
+![Student Dashboard](Student-dashboard.jpeg)
 
 ### Faculty Dashboard
-![Faculty Dashboard](Faculty-dashboard.jpeg)
+![Faculty Dashboard](faculty-dashboard.jpeg)
 
 ### Attendance Report
 ![Attendance Report](Attendance-report.jpeg)
@@ -82,7 +82,7 @@ The system follows a layered architecture consisting of:
 ![Result](Result.jpeg)
 
 ### Architecture Diagram
-![Architecture Diagram]Aechitecture-diagram.png)
+![Architecture Diagram]Architecture-diagram.png)
 
 ---
 
