@@ -67,7 +67,7 @@ The system follows a layered architecture consisting of:
 ## Screenshots
 
 ### Login Page
-![Login Page](login-page.png)
+![Login Page](login-page .png)
 
 ### Student Dashboard
 ![Student Dashboard](student-dashboard.jpeg)
@@ -82,7 +82,7 @@ The system follows a layered architecture consisting of:
 ![Result](Result.jpeg)
 
 ### Architecture Diagram
-![Architecture Diagram]Architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ---
 
